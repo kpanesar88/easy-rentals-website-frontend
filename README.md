@@ -1,7 +1,7 @@
-# Car Website
+# easy-rentals-website-frontend
 
 **Description:**
-This project is a sleek and modern website designed to showcase various car models. It features interactive sections, smooth transitions, and an engaging user experience. The website includes images and links to detailed information about different car models, providing a visually appealing and informative experience for car enthusiasts.
+This project is a sleek and modern website designed to showcase various car models. It features interactive sections, smooth transitions, and an engaging user experience.
 
 **Features**
 - Showcases car models with images and links.
