@@ -1,4 +1,4 @@
-# easy-rentals-website-frontend
+# Easy Rentals Website
 
 **Description:**
 This project is a sleek and modern website designed to showcase various car models. It features interactive sections, smooth transitions, and an engaging user experience.
